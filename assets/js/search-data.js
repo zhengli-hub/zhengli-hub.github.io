@@ -515,14 +515,14 @@ ninja.data = [{
         title: 'IEEE Xplore',
         section: 'Socials',
         handler: () => {
-          window.open("https://ieeexplore.ieee.org/author/https://ieeexplore.ieee.org/author/352217911772103/", "_blank");
+          window.open("https://ieeexplore.ieee.org/author/352217911772103/", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/Zheng (Zane) Li", "_blank");
+          window.open("https://www.linkedin.com/in/zheng-li-540608298", "_blank");
         },
       },{
         id: 'social-orcid',
@@ -536,14 +536,7 @@ ninja.data = [{
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Zheng-Li-69?ev=prf_overview/", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://www.researchgate.net/profile/Zheng-Li-69/", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -551,13 +544,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=ZCy63TMAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
       id: 'light-theme',
