@@ -16,3 +16,6 @@ assets/js/distillpub/transforms.v2.js
 readme_preview/**
 vendor/**
 _site/**
+
+_posts/2015-07-15-code.md
+INSTALL.md
