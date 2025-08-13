@@ -19,8 +19,25 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/configure-pages@v5
+
+      # 安装 Python + Jupyter（供 jekyll-jupyter-notebook 调用）
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+      - name: Install Jupyter deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install jupyter nbconvert nbformat jupyterlab_pygments pygments
+
+      # （如果你后面要开启 imagemagick / terser，再加对应依赖）
+      # - name: Install ImageMagick
+      #   run: sudo apt-get update && sudo apt-get install -y imagemagick
+      # - uses: actions/setup-node@v4
+      #   with:
+      #     node-version: "20"
+      # - run: npm i -g terser
 
       - uses: ruby/setup-ruby@v1
         with:
