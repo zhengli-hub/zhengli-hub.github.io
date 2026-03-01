@@ -33,12 +33,10 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Hi there 👋! I’m Zane, a Ph.D. student and graduate research assistant in the Department of Civil and Environmental Engineering at the University of Wisconsin–Madison, advised by [Prof. Xiaopeng Li](https://engineering.wisc.edu/directory/profile/xiaopeng-li/). My research focuses on intelligent transportation systems, with particular emphasis on autonomous vehicles, traffic flow theory, and the application of large language models.
+Hi there 👋 I'm Zane, a Ph.D. student and Graduate Research Assistant at the University of Wisconsin–Madison, advised by [Prof. Xiaopeng Li](https://engineering.wisc.edu/directory/profile/xiaopeng-li/). My research focuses on intelligent transportation systems, with particular interests in driving behavior modeling and simulation, safety assessment and scenario generation for autonomous vehicles, and end-to-end autonomous driving control with closed-loop simulation.
 
-Before joining UW–Madison, I earned my master’s degree in transportation engineering from Tongji University, China, under the supervision of [Prof. Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) and [Prof. Ye Tian](https://tops.tongji.edu.cn/info/1031/1185.htm).
+Alongside my Ph.D. in UW–Madison, I have also earned two additional master's degrees in Computer Sciences and Civil & Environmental Engineering. I'm passionate about bridging transportation engineering and computer science.
 
-I aim to understand and model the complex interactions between human drivers, automated driving systems, and traffic control devices. My recent work examines how autonomous vehicle behavior patterns affect traffic dynamics and infrastructure performance, drawing on microscopic simulation, trajectory data analysis, and optimization techniques.
+Before joining UW–Madison, I earned my master's degree in Transportation Engineering from Tongji University, China, where I was advised by [Prof. Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) and [Prof. Ye Tian](https://tops.tongji.edu.cn/info/1031/1185.htm).
 
-I’m also passionate about bridging transportation engineering and computer science, and I am currently pursuing a Master’s degree in Computer Sciences alongside my Ph.D.
-
-Feel free to explore my work, reach out for collaborations, or connect with me on [LinkedIn](https://www.linkedin.com/in/zheng-li-540608298/) / [Google Scholar](https://scholar.google.com.hk/citations?user=ZCy63TMAAAAJ&hl=zh-CN&oi=sra). You can also email me at [zli2674@wisc.edu](zli2674@wisc.edu).
+Feel free to explore my work, reach out for collaborations, or connect with me on [LinkedIn](https://www.linkedin.com/in/zheng-li-540608298/) / [Google Scholar](https://scholar.google.com/citations?user=u5HHmVD_uO8C). You can also email me at [zli2674@wisc.edu](mailto:zli2674@wisc.edu).
