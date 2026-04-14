@@ -39,4 +39,4 @@ Alongside my Ph.D. in UW–Madison, I have also earned two additional master's d
 
 Before joining UW–Madison, I earned my master's degree in Transportation Engineering from Tongji University, China, where I was advised by [Prof. Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm) and [Prof. Ye Tian](https://tops.tongji.edu.cn/info/1031/1185.htm).
 
-Feel free to explore my work, reach out for collaborations, or connect with me on [LinkedIn](https://www.linkedin.com/in/zheng-li-540608298/) / [Google Scholar](https://scholar.google.com/citations?user=u5HHmVD_uO8C). You can also email me at [zli2674@wisc.edu](mailto:zli2674@wisc.edu).
+Feel free to explore my work, reach out for collaborations, or connect with me on [LinkedIn](https://www.linkedin.com/in/zheng-li-540608298/) / [Google Scholar](https://scholar.google.com.hk/citations?user=ZCy63TMAAAAJ&hl=zh-CN&oi=sra). You can also email me at [zli2674@wisc.edu](mailto:zli2674@wisc.edu).
